@@ -33,6 +33,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import com.box4.manager.core.Box4Repository
+import com.box4.manager.core.CoreInfo
 
 @Composable
 fun CoreScreen(vm: Box4ViewModel) {

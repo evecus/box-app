@@ -1,8 +1,8 @@
 package com.box4.manager.ui
 
 import android.app.Application
-import android.content.pm.PackageInfoFlags
 import android.content.pm.PackageManager
+import android.content.pm.PackageManager.PackageInfoFlags
 import android.os.Build
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
